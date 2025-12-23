@@ -193,7 +193,7 @@ if uploaded_file:
         )
 
 # ------------------ FOOTER ------------------
-st.markdown('<div class="footer">Made with ❤️ using Streamlit & BLIP</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">Made with  using Streamlit & BLIP</div>', unsafe_allow_html=True)
 
 
 
